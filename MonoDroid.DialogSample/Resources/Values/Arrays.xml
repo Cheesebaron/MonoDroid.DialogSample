@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="list_dialog_items">
+    <item>If Spamalot is hot</item>
+    <item>And you like it, or per\'aps not</item>
+    <item>A bunch of knights in search of Holy Grails</item>
+    <item>When you\'re 60 years of age</item>
+    <item>And your mum won\'t leave the stage</item>
+    <item>It\'s good to know that you\'re still Prince of Wales</item>
+  </string-array>
+
+  <string-array name="multilist_dialog_items">
+    <item>Bed of Roses</item>
+    <item>Kiss From Rose</item>
+    <item>Dessert Rose</item>
+    <item>Buy Me a Rose</item>
+  </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Dialog Samples</string>
+  <string name="knigts_dialog_title">We are the knights who say \"Ni!\"?</string>
+  <string name="bomb_dialog_title">Someone set us up the bomb!</string>
+  <string name="list_dialog_title">Always Look on the Bright Side of Life</string>
+  <string name="multi_choice_dialog_title">Choose a stupid song about roses</string>
+  <string name="number_dialog_title">Answer to the meaning of life is</string>
+  <string name="dialog_signal">We\'ve got signal</string>
+  <string name="dialog_main_screen">Main screen turn on</string>
+  <string name="dialog_ok">OK</string>
+  <string name="dialog_cancel">Cancel</string>
+  <string name="multi_dialog_cancel">I like shrubberies better</string>
+  <string name="dialog_date">Pick date</string>
+  <string name="dialog_number">Pick number</string>
+  <string name="yes">Yes</string>
+  <string name="no">No</string>
+</resources>

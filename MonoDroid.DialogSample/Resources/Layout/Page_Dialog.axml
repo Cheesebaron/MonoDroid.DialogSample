@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <Button
+    android:id="@+id/YesNoDialogButton"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Yes/No Dialog"/>
+  <Button
+    android:id="@+id/AlertDialogButton"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Alert Dialog"/>
+  <Button
+    android:id="@+id/ListDialogButton"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="List Dialog"/>
+  <Button
+    android:id="@+id/MultiChoiceDialogButton"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Multiple Choice Dialog"/>
+  <Button
+    android:id="@+id/CustomViewDialogButton"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Custom View Dialog"/>
+  <Button
+    android:id="@+id/FragmentDialogsButton"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Go to Fragment Dialogs"/>
+</LinearLayout>
